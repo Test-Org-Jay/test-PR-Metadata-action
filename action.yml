@@ -1,5 +1,8 @@
 name: 'test-PR Metadata Action'
 description: 'Adds pull request file changes as a comment to a newly opened PR'
+branding:
+  icon: 'thumbs-up'
+  color: 'white'
 inputs:
   owner:
     description: 'The owner of the repository'
